@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+Quick preview:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Copy of Persönlich – Microsoft_ Edge - Todo List - Persönlich – Microsoft_ Edge - 4 September 2023 (4)](https://github.com/annabelle240/To-Do-List/assets/120031172/7fef7836-0cbc-4203-8534-4855a2dd7499)
+
 
 ## Available Scripts
 
